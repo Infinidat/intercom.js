@@ -4,11 +4,11 @@
   "version": "0.1.5",
   "homepage": "https://github.com/mvasilkov/intercom.js",
   "authors": [
-    "Mark Vasilkov <markv@infinidat.com>"
+    "Brian Reavis (https://github.com/brianreavis)"
   ],
   "description": "A client-side cross-window message broadcast library built on top of the HTML5 localStorage API.",
   "moduleType": [
     "amd"
   ],
-  "license": "MIT"
+  "license": "Apache License, Version 2.0"
 }
