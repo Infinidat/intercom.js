@@ -1,0 +1,19 @@
+{
+  "name": "intercom.js",
+  "version": "0.1.6",
+  "description": "A client-side cross-window message broadcast library built on top of the HTML5 localStorage API",
+  "main": "intercom.amd.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infinidat/intercom.js.git"
+  },
+  "keywords": [
+    "intercom.js"
+  ],
+  "author": "Brian Reavis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Infinidat/intercom.js/issues"
+  },
+  "homepage": "https://github.com/Infinidat/intercom.js#readme"
+}
